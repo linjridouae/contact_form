@@ -103,6 +103,7 @@
     
     if ($result) {
         echo '<script>alert("Data inserted successfully.")</script>';
+        
     } else {
         echo '<script>alert("There was an error inserting the data.")</script>';
     }
